@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    background-color: grey;
+    border-radius: 8px;
+    margin : 10px;
+    text-transform: uppercase;
+}
+
+#spicyImage {
+    border-radius: 8px;
+    width: 800px;
+    height: 800px;
+}
+
+a {
+    text-decoration: none;
+}
